@@ -22,7 +22,7 @@ Docker Image for Sonarqube-Scanner CLI
 
 ### How to use this Image
 
-To use this Image with Gitlab-CI for Sonarqube Codechecking, use the following commands in a .gitlab-ci.yml - File:
+To use this Image with Gitlab-CI for Sonarqube Codechecking with installed [Gitlab-Plugin](https://gitlab.talanlabs.com/gabriel-allaigre/sonar-gitlab-plugin) for reporting, use the following commands in a .gitlab-ci.yml - File:
 
 
 ```
