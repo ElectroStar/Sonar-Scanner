@@ -7,4 +7,6 @@ RUN apk add --no-cache wget && \
     unzip sonar-scanner-${SONAR_SCANNER_VERSION} && \  
     cd /usr/bin && ln -s /sonar-scanner-${SONAR_SCANNER_VERSION}/bin/sonar-scanner sonar-scanner && \  
     apk del wget && \
-    rm /sonar-scanner-${SONAR_SCANNER_VERSION}.zip
+    rm /sonar-scanner-${SONAR_SCANNER_VERSION}.zip && \
+    git config --global user.email "you@example.com" && \
+    git config --golbal user.name "Testuser"
