@@ -15,7 +15,7 @@ Docker Image for Sonarqube-Scanner CLI
   [the Docker Community Forums](https://forums.docker.com/), [the Docker Community Slack](https://blog.docker.com/2016/11/introducing-docker-community-directory-docker-community-slack/), or [Stack Overflow](https://stackoverflow.com/search?tab=newest&q=docker)
 
 -	**Where to file issues**:  
-	[GitHub](https://github.com/ElectroStar/Sonar-Scanner/issues); for troubleshooting, see our [How Do I ...?](http://www.ibm.com/developerworks/java/jdk/howdoi/) page
+	[GitHub Issues Page](https://github.com/ElectroStar/Sonar-Scanner/issues)
 
 -	**Maintained by**:  
 	[ElectroStar](https://github.com/ElectroStar)
