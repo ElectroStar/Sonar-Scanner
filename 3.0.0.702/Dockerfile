@@ -9,4 +9,4 @@ RUN apk add --no-cache wget && \
     apk del wget && \
     rm /sonar-scanner-cli-${SONAR_SCANNER_VERSION}.zip && \
     git config --global user.email "you@example.com" && \
-    git config --golbal user.name "Testuser"
+    git config --global user.name "Testuser"
