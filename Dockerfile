@@ -1,5 +1,5 @@
-FROM openjdk:8-jdk-alpine  
-ENV SONAR_SCANNER_VERSION 3.0.2.768
+FROM openjdk:8-jdk-alpine
+ENV SONAR_SCANNER_VERSION 3.0.3.778
 
 RUN apk add --no-cache wget && \
     apk add --no-cache git && \  
