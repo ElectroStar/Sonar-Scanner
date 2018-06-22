@@ -1,4 +1,4 @@
-FROM java:alpine  
+FROM openjdk:8-jdk-alpine  
 ENV SONAR_SCANNER_VERSION 2.8
 
 RUN apk add --no-cache wget && \  
