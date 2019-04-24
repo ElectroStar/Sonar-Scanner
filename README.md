@@ -3,7 +3,7 @@ Docker Image for Sonarqube-Scanner CLI
 
 # Supported tags and respective `Dockerfile` links
 
--       [`3.3.0`, `3.3.0.1492`, `latest` (*Dockerfile*)](https://github.com/ElectroStar/Sonar-Scanner/blob/e8c008e31e6c99ea94fdd100f9b2a28951144def/Dockerfile)
+-	[`3.3.0`, `3.3.0.1492`, `latest` (*Dockerfile*)](https://github.com/ElectroStar/Sonar-Scanner/blob/e8c008e31e6c99ea94fdd100f9b2a28951144def/Dockerfile)
 -	[`3.2.0`, `3.2.0.1227` (*Dockerfile*)](https://github.com/ElectroStar/Sonar-Scanner/blob/100820802d091ac3d8bed4cff9c63bdcddbba516/Dockerfile)
 -	[`3.1.0`, `3.1.0.1141` (*Dockerfile*)](https://github.com/ElectroStar/Sonar-Scanner/blob/41e32ad2a0a7cae298fd795b3dd365a5aee37cb5/Dockerfile)
 -	[`3.0.3`, `3.0.3.778` (*Dockerfile*)](https://github.com/ElectroStar/Sonar-Scanner/blob/4200455bdb40a128ec0a841bcf8fbfb6ead2e498/Dockerfile)
